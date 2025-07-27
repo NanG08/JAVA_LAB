@@ -1,6 +1,6 @@
 package Mod1_Assignment.Arrays;
 
-public class 2dArray {
+public class TwoDArray {
     public static void main(String[] args) {
             int[][] matrix = {{1, 2}, {3, 4}};
             for (int i = 0; i < matrix.length; i++) {
@@ -9,4 +9,5 @@ public class 2dArray {
                 }
                 System.out.println();
             }
+}
 }
