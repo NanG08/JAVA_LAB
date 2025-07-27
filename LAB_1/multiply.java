@@ -15,5 +15,7 @@ class multiply {
         ans = a * b;
 
         System.out.println("Multiplication of given numbers: "+ans);
+
+        sc.close();
     }
 }
