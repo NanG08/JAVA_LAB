@@ -1,3 +1,4 @@
+package LAB_1;
 public class Math {
     public static void main(String[] args) {
     sum(3,4);
