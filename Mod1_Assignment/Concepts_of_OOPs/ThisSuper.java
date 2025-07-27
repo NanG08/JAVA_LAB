@@ -10,12 +10,12 @@ class SuperClass {
     class SubClass extends SuperClass {
         String name;
         SubClass(String name) {
-            super(); // Calls parent constructor
-            this.name = name; // 'this' refers to current class instance variable
+            super(); 
+            this.name = name; 
         }
         void printName() {
             System.out.println("SubClass name: " + this.name);
-            System.out.println("SuperClass name: " + super.name); // 'super' refers to parent
+            System.out.println("SuperClass name: " + super.name); 
         }
     }
 
