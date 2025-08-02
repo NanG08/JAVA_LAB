@@ -1,4 +1,4 @@
-public class Rectangle implements shape {
+public class Rectangle implements Shape {
 private double length;
 private double width;
 
@@ -12,7 +12,7 @@ return (width*length);
 }
 
 public double perimeter(){
-return 2*(length +width);
+return 2*(length + width);
 }
 
 

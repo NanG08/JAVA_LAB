@@ -1,3 +1,4 @@
+package LAB_2;
 import java.util.*;
 
 @FunctionalInterface
