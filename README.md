@@ -13,5 +13,3 @@ A collection of basic Java programming exercises to practice core object-oriente
 | Q5  | Write a program to demonstrate **inheritance** in Java. |
 | Q6  | Write a program to demonstrate **method overriding** in Java. |
 | Q7  | Write a program to demonstrate the use of the `final` keyword in Java. |
-
-## MODULE 1 ASSIGNMENT

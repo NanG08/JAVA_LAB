@@ -1,4 +1,4 @@
-
+package shape;
 
 public class Circle implements Shape {
 private double radius;
@@ -8,10 +8,10 @@ public Circle(double radius){
 }
 
 public double area(){
-    return Math.PI*radius*radius;
+    return Math.PI*this.radius*this.radius;
 }
 
 public double perimeter(){
-    return Math.PI*2*radius;
+    return Math.PI*2*this.radius;
 }
 }
